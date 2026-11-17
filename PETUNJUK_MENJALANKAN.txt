@@ -1,0 +1,4 @@
+﻿1. Install Python 3.10+
+2. pip install -r requirements.txt
+3. Taruh file Excel data (versi tersamarkan) di data/raw/
+4. Buka Notebook_PT_X.ipynb di Jupyter, lalu Run All
